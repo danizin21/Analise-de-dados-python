@@ -13,7 +13,7 @@ Análise exploratória dos dados
 Criação de gráficos e visualizações
 Identificação de padrões e insights
 
-Tecnologias Utilizadas
+Tecnologias Utilizadas:
 Python
 Pandas
 Plotly
